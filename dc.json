@@ -1,0 +1,56 @@
+{
+"storeHouse": [
+        {
+        "sourceName": "🌹仓库1🌹",
+        "sourceUrl": "https://agit.ai/ccy/v/raw/branch/master/tvbox/list.json"
+        },
+        {
+        "sourceName": "🌹仓库2🌹",
+        "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
+        },
+        {
+        "sourceName": "🌹仓库3🌹",
+        "sourceUrl": "http://tv.nxog.top/m/m/1.php"
+        },
+        {
+        "sourceName": "🌹仓库4🌹",
+        "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"
+        },
+        {
+        "sourceName": "🌹仓库5🌹",
+        "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+        },
+        {
+        "sourceName": "🌹仓库6🌹",
+        "sourceUrl": "https://agit.ai/leevi/apps/raw/branch/main/duo.json"
+        },
+        {
+        "sourceName": "🌹仓库7🌹",
+        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
+        },
+        {
+        "sourceName": "🌹P仓库8🌹",
+        "sourceUrl": "https://agit.ai/l/l/raw/branch/master/c"
+        },
+        {
+        "sourceName": "🌹仓库9🌹",
+        "sourceUrl": "https://agit.ai/l/l/raw/branch/master/a"
+        },
+        {
+        "sourceName": "🌙影视优选仓①",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/a.json"
+        },
+        {
+        "sourceName": "🌙影视备用仓②",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/b.json"
+        },
+        {
+        "sourceName": "🌙影视网络仓③",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/c.json"
+        },
+        {
+        "sourceName": "🌙影视大咖仓④",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/d.json"
+        }
+    ]
+}
